@@ -20,7 +20,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('/text.txt')
+    fetch('text.txt')
       .then(response => response.text())
       .then(text => this.setState({text, normal: text}));
   }
