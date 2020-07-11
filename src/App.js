@@ -44,7 +44,7 @@ class App extends Component {
 
   handleBackspace(e) {
     if (e.keyCode === 8) {
-      e.preventDefault()
+      //e.preventDefault()
       console.log('delete')
     }
   }
