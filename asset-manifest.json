@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mobile-typing-test/static/css/main.2e8c32c3.chunk.css",
-    "main.js": "/mobile-typing-test/static/js/main.f056d700.chunk.js",
-    "main.js.map": "/mobile-typing-test/static/js/main.f056d700.chunk.js.map",
+    "main.js": "/mobile-typing-test/static/js/main.456609c5.chunk.js",
+    "main.js.map": "/mobile-typing-test/static/js/main.456609c5.chunk.js.map",
     "runtime-main.js": "/mobile-typing-test/static/js/runtime-main.2b1f7619.js",
     "runtime-main.js.map": "/mobile-typing-test/static/js/runtime-main.2b1f7619.js.map",
     "static/js/2.eb990e5e.chunk.js": "/mobile-typing-test/static/js/2.eb990e5e.chunk.js",
     "static/js/2.eb990e5e.chunk.js.map": "/mobile-typing-test/static/js/2.eb990e5e.chunk.js.map",
     "index.html": "/mobile-typing-test/index.html",
-    "precache-manifest.6c2ff39e03ba86a5d2a2b4e6036bbbb3.js": "/mobile-typing-test/precache-manifest.6c2ff39e03ba86a5d2a2b4e6036bbbb3.js",
+    "precache-manifest.4febd05d3175d29a36c0d3bc73196015.js": "/mobile-typing-test/precache-manifest.4febd05d3175d29a36c0d3bc73196015.js",
     "service-worker.js": "/mobile-typing-test/service-worker.js",
     "static/css/main.2e8c32c3.chunk.css.map": "/mobile-typing-test/static/css/main.2e8c32c3.chunk.css.map",
     "static/js/2.eb990e5e.chunk.js.LICENSE.txt": "/mobile-typing-test/static/js/2.eb990e5e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2b1f7619.js",
     "static/js/2.eb990e5e.chunk.js",
     "static/css/main.2e8c32c3.chunk.css",
-    "static/js/main.f056d700.chunk.js"
+    "static/js/main.456609c5.chunk.js"
   ]
 }
